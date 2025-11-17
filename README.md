@@ -1,2 +1,3 @@
-# Aman-linux-demo
+# linux-demo
 This is my first Git Repository
+Author - Aman 
